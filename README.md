@@ -2,10 +2,7 @@
 
 **Frontend Developer** · Kazan, Russia
 
-I build responsive web interfaces and develop frontend projects using HTML, CSS, JavaScript, and TypeScript.
-
-Currently exploring React and improving my skills through hands-on projects.
-
+I build responsive web interfaces and develop frontend projects using HTML, CSS, JavaScript, and TypeScript. Currently exploring React and improving my skills through hands-on projects.
 Open to Frontend Developer Intern and Trainee opportunities.
 
 [![Telegram](https://img.shields.io/badge/@kadr__m-262626?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kadr_m)
