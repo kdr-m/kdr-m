@@ -22,7 +22,7 @@ skills and looking for a Frontend Developer internship.
 A responsive productivity timer built with
 React and TypeScript.
 
-[GitHub Repository](https://github.com/kdr-m/timer-pomodoro)
+[Live Demo](https://kdr-m.github.io/timer-pomodoro/) | [Source Code](https://github.com/kdr-m/timer-pomodoro)
 
 ### 🎮 Tic-Tac-Toe
 A TypeScript project focused on game logic
